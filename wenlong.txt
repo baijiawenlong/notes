@@ -1,1 +1,2 @@
 文龙会git了
+Creating a new branch is quick.
